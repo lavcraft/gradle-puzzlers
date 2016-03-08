@@ -1,0 +1,4 @@
+include 'lib0'
+include 'examples'
+include 'examples:simple0'
+include 'examples:simple1'
